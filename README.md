@@ -19,27 +19,27 @@ So what I did was:
 - run the inference on test video
 
 The code I added to get the hard hat color
-![Project Image1](https://github.com/joicejoseph3198/Images/blob/main/code.JPG)
+![Project Image1](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/code.JPG)
 
-![Project Image2](https://github.com/joicejoseph3198/Images/blob/main/Screenshot-20210728200926-1900x1000.png)
+![Project Image2](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Screenshot-20210728200926-1900x1000.png)
 I trained my model for about 40 epochs and i got mAP score of nearly 0.93 which seemed pretty good. I could've have got better results had I trained it for more epochs. But considering my computational power, this seemed good enough.
 
 ![Project Image3](https://github.com/joicejoseph3198/Images/blob/main/results.png)
 
 Result of the training turned out to look like this:
-![Project Image4](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1294.png)
-![Project Image10](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1543.png)
-![Project Image5](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1684.png)
-![Project Image6](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers210.png)
-![Project Image7](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers2899.png)
-![Project Image8](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers509.png)
-![Project Image9](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers91.png)
+![Project Image4](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/hard_hat_workers1294.png)
+![Project Image10](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/hard_hat_workers1543.png)
+![Project Image5](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/hard_hat_workers1684.png)
+![Project Image6](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/hard_hat_workers210.png)
+![Project Image7](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/hard_hat_workers2899.png)
+![Project Image8](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/hard_hat_workers509.png)
+![Project Image9](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/hard_hat_workers91.png)
 
 Screenshots from the inference video:
-![Project Image11](https://github.com/joicejoseph3198/Images/blob/main/Capture1.JPG)
-![Project Image12](https://github.com/joicejoseph3198/Images/blob/main/Capture2.JPG)
-![Project Image13](https://github.com/joicejoseph3198/Images/blob/main/Capture3.JPG)
-![Project Image14](https://github.com/joicejoseph3198/Images/blob/main/Capture4.JPG)
-![Project Image15](https://github.com/joicejoseph3198/Images/blob/main/Capture5.JPG)
-![Project Image16](https://github.com/joicejoseph3198/Images/blob/main/Capture6.JPG)
-![Project Image17](https://github.com/joicejoseph3198/Images/blob/main/Capture7.JPG)
+![Project Image11](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture1.JPG)
+![Project Image12](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture2.JPG)
+![Project Image13](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture3.JPG)
+![Project Image14](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture4.JPG)
+![Project Image15](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture5.JPG)
+![Project Image16](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture6.JPG)
+![Project Image17](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture7.JPG)
