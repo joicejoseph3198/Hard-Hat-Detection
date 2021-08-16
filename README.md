@@ -18,7 +18,7 @@ So what I did was:
 - run the inference on test images
 - run the inference on test video
 
-The code I added to get the hard hat color
+The code I added to get the hard hat color <br/>
 ![Project Image1](https://github.com/joicejoseph3198/Images/blob/main/code.JPG)
 
 ![Project Image2](https://github.com/joicejoseph3198/Images/blob/main/Screenshot-20210728200926-1900x1000.png)
@@ -26,7 +26,7 @@ I trained my model for about 40 epochs and i got mAP score of nearly 0.93 which 
 
 ![Project Image3](https://github.com/joicejoseph3198/Images/blob/main/results.png)
 
-Result of the training turned out to look like this:
+Result of the training turned out to look like this: <br/>
 ![Project Image4](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1294.png)
 ![Project Image10](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1543.png)
 ![Project Image5](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1684.png)
