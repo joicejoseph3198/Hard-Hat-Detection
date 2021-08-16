@@ -27,7 +27,7 @@ I trained my model for about 40 epochs and i got mAP score of nearly 0.93 which 
 
 ![Project Image3](https://github.com/joicejoseph3198/Images/blob/main/results.png)
 
-Result of the training turned out to look like this: <br/>
+### Result of the training turned out to look like this: <br/>
 ![Project Image4](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1294.png)
 ![Project Image10](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1543.png)
 ![Project Image5](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1684.png)
@@ -36,7 +36,7 @@ Result of the training turned out to look like this: <br/>
 ![Project Image8](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers509.png)
 ![Project Image9](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers91.png)
 
-Screenshots from the inference video:
+### Screenshots from the inference video:
 ![Project Image11](https://github.com/joicejoseph3198/Images/blob/main/Capture1.JPG)
 ![Project Image12](https://github.com/joicejoseph3198/Images/blob/main/Capture2.JPG)
 ![Project Image13](https://github.com/joicejoseph3198/Images/blob/main/Capture3.JPG)
