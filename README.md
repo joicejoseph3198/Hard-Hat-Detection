@@ -1,4 +1,4 @@
-# HardHatDetection
+# Hard Hat Detection
  Using Yolov5 to build a object detection model to detect hard hats and additionally change the the color of the bounding box to match the color of the hard hats detected by the model.
 
 
@@ -36,10 +36,10 @@ Result of the training turned out to look like this: <br/>
 ![Project Image9](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers91.png)
 
 Screenshots from the inference video:
-![Project Image11](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture1.JPG)
-![Project Image12](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture2.JPG)
-![Project Image13](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture3.JPG)
-![Project Image14](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture4.JPG)
-![Project Image15](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture5.JPG)
-![Project Image16](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture6.JPG)
-![Project Image17](https://raw.githubusercontent.com/joicejoseph3198/Images/blob/main/Capture7.JPG)
+![Project Image11](https://github.com/joicejoseph3198/Images/blob/main/Capture1.JPG)
+![Project Image12](https://github.com/joicejoseph3198/Images/blob/main/Capture2.JPG)
+![Project Image13](https://github.com/joicejoseph3198/Images/blob/main/Capture3.JPG)
+![Project Image14](https://github.com/joicejoseph3198/Images/blob/main/Capture4.JPG)
+![Project Image15](https://github.com/joicejoseph3198/Images/blob/main/Capture5.JPG)
+![Project Image16](https://github.com/joicejoseph3198/Images/blob/main/Capture6.JPG)
+![Project Image17](https://github.com/joicejoseph3198/Images/blob/main/Capture7.JPG)
