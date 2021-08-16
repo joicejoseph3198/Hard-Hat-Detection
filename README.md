@@ -19,6 +19,7 @@ So what I did was:
 - run the inference on test video
 
 The code I added to get the hard hat color <br/>
+Essentially what I tried to do here is, for each bounding box I extracted the upper middle portion as my ROI, based on the assumption that a large portion of the ROI will be the helmet. And then I extracted the most dominant color.
 ![Project Image1](https://github.com/joicejoseph3198/Images/blob/main/code.JPG)
 
 ![Project Image2](https://github.com/joicejoseph3198/Images/blob/main/Screenshot-20210728200926-1900x1000.png)
