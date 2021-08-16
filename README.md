@@ -1,4 +1,4 @@
-# HardHatDetection
+# Hard Hat Detection
  Using Yolov5 to build a object detection model to detect hard hats and additionally change the the color of the bounding box to match the color of the hard hats detected by the model.
 
 
@@ -18,7 +18,8 @@ So what I did was:
 - run the inference on test images
 - run the inference on test video
 
-The code I added to get the hard hat color
+The code I added to get the hard hat color <br/>
+Essentially what I tried to do here is, for each bounding box I extracted the upper middle portion as my ROI, based on the assumption that a large portion of the ROI will be the helmet. And then I extracted the most dominant color.
 ![Project Image1](https://github.com/joicejoseph3198/Images/blob/main/code.JPG)
 
 ![Project Image2](https://github.com/joicejoseph3198/Images/blob/main/Screenshot-20210728200926-1900x1000.png)
@@ -26,7 +27,7 @@ I trained my model for about 40 epochs and i got mAP score of nearly 0.93 which 
 
 ![Project Image3](https://github.com/joicejoseph3198/Images/blob/main/results.png)
 
-Result of the training turned out to look like this:
+Result of the training turned out to look like this: <br/>
 ![Project Image4](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1294.png)
 ![Project Image10](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1543.png)
 ![Project Image5](https://github.com/joicejoseph3198/Images/blob/main/hard_hat_workers1684.png)
